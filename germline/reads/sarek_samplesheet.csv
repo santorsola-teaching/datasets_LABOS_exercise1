@@ -1,4 +1,3 @@
 patient,sample,lane,fastq_1,fastq_2
-patient_01,sample_01,lane1,datasets_LABOS-2023/germline/reads/case_1.fastq.gz,datasets_LABOS-2023/germline/reads/case_2.fastq.gz
-patient_02,sample_02,lane1,datasets_LABOS-2023/germline/reads/control_1.fastq.gz,datasets_LABOS-2023/germline/reads/control_2.fastq.gz
-
+control,control1,lane1,datasets_LABOS_exercise1/germline/reads/normal_1.000+disease_0.000_1.fq.gz,datasets_LABOS_exercise1/germline/reads/normal_1.000+disease_0.000_2.fq.gz
+case,case1,lane1,datasets_LABOS_exercise1/germline/reads/normal_0.000+disease_1.000_1.fq.gz,datasets_LABOS_exercise1/germline/reads/normal_0.000+disease_1.000_2.fq.gz
